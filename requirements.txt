@@ -12,7 +12,6 @@ configobj==5.0.9
 configparser==7.2.0
 etelemetry==0.3.1
 filelock==3.20.0
-fitz==0.0.1.dev2
 gitdb==4.0.12
 GitPython==3.1.45
 httplib2==0.31.0
@@ -42,7 +41,6 @@ pyarrow==21.0.0
 pydeck==0.9.1
 pydot==4.0.1
 PyMuPDF==1.24.9
-PyMuPDFb==1.24.9
 pyparsing==3.2.5
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
