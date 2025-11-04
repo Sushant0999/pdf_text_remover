@@ -24,3 +24,38 @@ Useful for students, teachers, institutes, and self-practice revision.
 
 ### 🖥️ Run Locally
 
+pip install -r requirements.txt
+streamlit run app.py
+
+
+docker build -t pdf-cleaner .
+docker run -p 8501:8501 pdf-cleaner
+
+
+Then open: http://localhost:8501
+
+---
+
+### 📦 Requirements
+| Library | Purpose |
+|--------|---------|
+| **pytesseract** | OCR text extraction |
+| **pdf2image** | Convert PDF → Image |
+| **pymupdf (fitz)** | Apply redaction |
+| **Streamlit** | User Interface |
+
+Ensure **Tesseract** and **Poppler** are installed on your OS.
+
+---
+
+### 📜 License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute — just give proper credit. 🙏
+
+---
+
+### 💙 Author
+Sushant  
+(Feel free to star ⭐ the repo if you find it useful)
+
+
