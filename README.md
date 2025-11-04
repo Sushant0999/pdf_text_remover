@@ -48,12 +48,6 @@ Ensure **Tesseract** and **Poppler** are installed on your OS.
 
 ---
 
-### 📜 License
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute — just give proper credit. 🙏
-
----
-
 ### 💙 Author
 Sushant  
 (Feel free to star ⭐ the repo if you find it useful)
